@@ -1,0 +1,17 @@
+{
+    "name": "adapt-add-snap-scroll",
+    "repository": "",
+    "framework": "^1.0.0",
+    "version": "1.0.0",
+    "homepage": "",
+    "issues": "",
+    "displayName": "Adding snap on scroll top Adapt",
+    "extension": "Adding snap on scroll top Adapt",
+    "description": "Adding snap on scroll top Adapt",
+    "main": "/js/adapt-add-snap-scroll.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3"
+}
